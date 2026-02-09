@@ -20,7 +20,7 @@
 
 <div align="center">
   <p>👇 You can find the games I published on Google Play here 👇</p>
-  <a href="https://play.google.com/store/apps/details?id=com.WasStudio.BallMerge" target="_blank">
+  <a href="https://play.google.com/store/apps/developer?id=Was+Studio" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Google%20Play&logo=google-play&label=&color=00C05B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="google play logo" />
   </a>
 </div>
