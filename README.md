@@ -19,6 +19,15 @@
 ###
 
 <div align="center">
+  <p>👇 You can find the games I published on Google Play here 👇</p>
+  <a href="https://play.google.com/store/apps/details?id=com.WasStudio.BallMerge" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Google%20Play&logo=google-play&label=&color=00C05B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="google play logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/yusufayvaz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
